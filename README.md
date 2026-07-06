@@ -1,2 +1,2 @@
-# DIgiView-realease
+# DigiView-realease
 DigiView installer downloads
